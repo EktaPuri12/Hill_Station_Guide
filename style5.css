@@ -1,0 +1,99 @@
+body
+{
+	margin: 0px;
+	padding: 0px;
+}
+.backdrop{
+	 height: 100%;
+	 width: 100%;
+	 background:url('pic1.jpg');
+	 background-position: center;
+	 position: absolute;
+}
+.box
+{
+	height: 330px;
+	width: 450px;
+	margin: 8% auto;
+	position: relative;
+	background: #ffffff;
+	opacity: 0.6;
+
+
+}
+.layout
+{
+	margin-top: 40px;
+	margin-left: 40px;
+	font-weight:  bold;
+	font-size: x-large;
+	font-family: Arial Verdana;
+}
+/**
+.icons
+{
+	
+	margin-left: 40px; 
+	text-align: center;
+	position: absolute;
+	right: 40px;
+	
+
+}
+
+.icons img
+{
+	margin-left: 40px; 
+	padding: 40px;
+	position: absolute;
+	
+}
+**/
+.user-data
+{
+	top: 180px;
+	position: center;
+	width :280px;
+
+	
+}
+.field
+{
+	width: 100%;
+	padding: 10px 0;
+	margin: 5px 0;
+	border-left: 1px solid #999;
+	border-right: 1px solid #999;
+	border-bottom: 1px solid #999;
+	background: transparent;
+	display: block;
+	
+
+}
+.login
+{
+	width: 100%;
+	height: 40px;
+	padding-left: 20px;
+	cursor: pointer;
+	display: block;
+	margin: auto;
+	background-color: darkgreen;
+	outline: none;
+	opacity:100%;
+
+}
+h2
+{
+	padding-left: 230px;
+}
+
+h3
+{
+	padding-left: 60px;
+	margin-top: 5px; 
+	background-color: white;
+}
+
+
+
