@@ -110,7 +110,7 @@ if (isset($error))
 
 ?>
 <!--
-<h3>Don't Have An Account yet ?</h3>
+<h3>Don't Have An Account yet Create one?</h3>
 <button type="submit"> SIGNUP!</button>
 </div>
 -->
